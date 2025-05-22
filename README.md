@@ -1,10 +1,10 @@
 # 1120764---Code-Submission
-TSA Software Development Code Submission (1120764)
+**TSA Software Development Code Submission (1120764).**
 This software was developed for the 2025 TSA Events National Conference under the Software Developement Category
 
 This project aims to utilize a customized Machine Learning Model to create an application that can be used to detect weeds and other harmful plants amoung essential crops, such as wheat. This project is intened to be used by farmers that grow these crops to help them have more concentrated treatments such as pesticides. MIT App Inventor and Teachable Machine were utilized to create the app.
 
-Approach
+**Approach**
 - The app uses a camera (from a drone) to analyze the live video camera feed and it uses the Machine Learning Model backend to identify the objects in the screen and place bounding boxed around them.
 - In order to maintain the accuracy of the program, a confidence level of 90% confidence has been implemented.
 - Next, an in-build Location Sensor was used to obtain the latitude and longitude as well as the classification of the weed type was used.
